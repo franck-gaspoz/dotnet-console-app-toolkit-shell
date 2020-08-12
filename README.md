@@ -7,6 +7,8 @@ A new commands shell, conforming to posix standard, running on any platform supp
 
 This powerfull shell integrates the most usefull shell commands, and is intented to be extended either by coding new commands or downloading new commands modules within a commands modules repository.
 
+<img src="Doc/orbital-shell.png"/>
+
 <img src="Doc/2020-06-13 02_34_57-Window-github.png"/>
 
 The full documentation about the toolkit is available [here](https://github.com/franck-gaspoz/dotnet-console-app-toolkit/blob/master/README.md)
