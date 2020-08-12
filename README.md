@@ -17,7 +17,7 @@ What is implemented:
 
 * command line reader and parser
 * command processor
-* commands methods (attributes that makes it possible to declare command syntaxes directly in C#)
+* commands methods (attributes allowing to declare command syntaxes directly in C#)
 * print directives (extended ansi and programmatic text output features)
 
 What is being implemented:
